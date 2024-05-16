@@ -1,0 +1,10 @@
+# # my-nginx-project/docker-compose.yml
+# version: '3.8'
+
+# services:
+#   client:
+#     image: nginx
+#     ports:
+#       - "8080:80"
+#     volumes:
+#       - ./index.html:/usr/share/nginx/html/index.html
